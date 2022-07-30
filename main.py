@@ -5,3 +5,5 @@ pc_dict = {
 }
 
 # although i barely have any money at all, i will try to save up for a new computer.
+
+print(pc_dict)
